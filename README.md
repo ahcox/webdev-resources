@@ -1,4 +1,3 @@
-A bunch of links to web development resources. 
 
 # Sites With Reusable Snippets of HTML, CSS, and Javascript
 
